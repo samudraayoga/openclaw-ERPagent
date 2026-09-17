@@ -230,6 +230,10 @@ secrets/
 CREDENTIALS.md
 *CREDENTIALS*.md
 
+# OpenClaw installer output is host-specific and may contain absolute paths.
+integrations/openclaw/rain-config.batch.json
+integrations/openclaw/*.backup*
+
 # ═══════════════════════════════════════════════════════════════
 # Project Specific
 # ═══════════════════════════════════════════════════════════════
