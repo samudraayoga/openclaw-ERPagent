@@ -1,0 +1,15 @@
+# Host-specific OpenClaw configuration and installer backups
+openclaw.json
+openclaw.json.*
+*.backup*
+rain-config.batch.json
+
+# Local secrets and runtime output
+.env
+.env.*
+!.env.example
+*.log
+*.pid
+
+# Local OS metadata
+.DS_Store
